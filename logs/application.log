@@ -1,0 +1,94 @@
+[2024-11-20 17:04:44] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Starting MatrixApp...
+[2024-11-20 17:04:44] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - MatrixApp started successfully.
+[2024-11-20 17:05:18] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Matrix loading canceled.
+[2024-11-20 17:05:23] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Matrix loading canceled.
+[2024-11-20 17:36:02] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Loading matrix from file: C:\Users\lita0\Desktop\test_matrix.txt
+[2024-11-20 17:36:02] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixFileReader - Attempting to read matrix from file: C:\Users\lita0\Desktop\test_matrix.txt
+[2024-11-20 17:36:02] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixFileReader - Matrix successfully read from file: C:\Users\lita0\Desktop\test_matrix.txt
+[2024-11-20 17:36:02] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Matrix 1 loaded successfully.
+[2024-11-20 17:36:28] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Loading matrix from file: C:\Users\lita0\Desktop\test_matrix2.txt
+[2024-11-20 17:36:28] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixFileReader - Attempting to read matrix from file: C:\Users\lita0\Desktop\test_matrix2.txt
+[2024-11-20 17:36:28] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixFileReader - Matrix successfully read from file: C:\Users\lita0\Desktop\test_matrix2.txt
+[2024-11-20 17:36:28] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Matrix 2 loaded successfully.
+[2024-11-20 17:36:33] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Performing operation: add
+[2024-11-20 17:36:33] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Starting addition of two matrices.
+[2024-11-20 17:36:33] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Addition completed successfully.
+[2024-11-20 17:36:33] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Operation 'add' completed successfully.
+[2024-11-20 17:36:39] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Performing operation: multiply
+[2024-11-20 17:36:39] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Starting multiplication of two matrices.
+[2024-11-20 17:36:39] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Multiplication completed successfully.
+[2024-11-20 17:36:39] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Operation 'multiply' completed successfully.
+[2024-11-20 17:36:45] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Calculating determinant for Matrix 1
+[2024-11-20 17:36:45] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Starting determinant calculation for a matrix.
+[2024-11-20 17:36:46] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Determinant calculation completed successfully. Determinant: 2.2338709084E10
+[2024-11-20 17:36:46] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Determinant calculated for Matrix 1: 2.2338709084E10
+[2024-11-20 17:36:50] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Calculating determinant for Matrix 2
+[2024-11-20 17:36:50] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Starting determinant calculation for a matrix.
+[2024-11-20 17:36:50] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Determinant calculation completed successfully. Determinant: -4.5332510682E10
+[2024-11-20 17:36:50] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Determinant calculated for Matrix 2: -4.5332510682E10
+[2024-11-30 09:04:04] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 started executing tests.
+[2024-11-30 09:04:04] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало вычисления детерминанта для матрицы.
+[2024-11-30 09:04:04] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Вычисление детерминанта завершено. Значение: -1.0
+[2024-11-30 09:04:04] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало умножения двух матриц.
+[2024-11-30 09:04:04] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Умножение успешно завершено.
+[2024-11-30 09:04:04] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало сложения двух матриц.
+[2024-11-30 09:04:04] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Сложение успешно завершено.
+[2024-11-30 09:04:04] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало сложения двух матриц.
+[2024-11-30 09:04:04] [Test worker] ERROR org.example.matrixx.calculator.MatrixValidator - Матрицы должны иметь одинаковые размеры для выполнения операции.
+[2024-11-30 09:04:04] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало вычитания двух матриц.
+[2024-11-30 09:04:04] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Вычитание успешно завершено.
+[2024-11-30 09:04:04] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 2 finished executing tests.
+[2024-11-30 09:04:09] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Запуск MatrixApp...
+[2024-11-30 09:04:09] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - MatrixApp успешно запущено.
+[2024-11-30 09:04:26] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 started executing tests.
+[2024-11-30 09:04:26] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало вычисления детерминанта для матрицы.
+[2024-11-30 09:04:26] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Вычисление детерминанта завершено. Значение: -1.0
+[2024-11-30 09:04:26] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало умножения двух матриц.
+[2024-11-30 09:04:26] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Умножение успешно завершено.
+[2024-11-30 09:04:26] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало сложения двух матриц.
+[2024-11-30 09:04:26] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Сложение успешно завершено.
+[2024-11-30 09:04:26] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало сложения двух матриц.
+[2024-11-30 09:04:26] [Test worker] ERROR org.example.matrixx.calculator.MatrixValidator - Матрицы должны иметь одинаковые размеры для выполнения операции.
+[2024-11-30 09:04:26] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало вычитания двух матриц.
+[2024-11-30 09:04:26] [Test worker] INFO  org.example.matrixx.calculator.MatrixCalculator - Вычитание успешно завершено.
+[2024-11-30 09:04:26] [Test worker] INFO  org.gradle.api.internal.tasks.testing.worker.TestWorker - Gradle Test Executor 3 finished executing tests.
+[2024-11-30 09:04:37] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Запуск MatrixApp...
+[2024-11-30 09:04:37] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - MatrixApp успешно запущено.
+[2024-11-30 21:33:39] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Запуск MatrixApp...
+[2024-11-30 21:33:40] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - MatrixApp успешно запущено.
+[2024-11-30 21:35:21] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Запуск MatrixApp...
+[2024-11-30 21:35:21] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - MatrixApp успешно запущено.
+[2024-11-30 21:35:31] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Загрузка матрицы из файла: C:\matrix1.txt
+[2024-11-30 21:35:31] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixFileReader - Попытка чтения матрицы из файла: C:\matrix1.txt
+[2024-11-30 21:35:31] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixFileReader - Матрица успешно прочитана из файла: C:\matrix1.txt
+[2024-11-30 21:35:31] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Матрица 1 успешно загружена.
+[2024-11-30 21:35:34] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Загрузка матрицы из файла: C:\matrix1.txt
+[2024-11-30 21:35:34] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixFileReader - Попытка чтения матрицы из файла: C:\matrix1.txt
+[2024-11-30 21:35:34] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixFileReader - Матрица успешно прочитана из файла: C:\matrix1.txt
+[2024-11-30 21:35:34] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Матрица 2 успешно загружена.
+[2024-11-30 21:35:37] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Выполнение операции: add
+[2024-11-30 21:35:37] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало сложения двух матриц.
+[2024-11-30 21:35:37] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Сложение успешно завершено.
+[2024-11-30 21:35:37] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Операция 'add' успешно выполнена.
+[2024-11-30 21:35:41] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Выполнение операции: subtract
+[2024-11-30 21:35:41] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало вычитания двух матриц.
+[2024-11-30 21:35:41] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Вычитание успешно завершено.
+[2024-11-30 21:35:41] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Операция 'subtract' успешно выполнена.
+[2024-11-30 21:35:42] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Выполнение операции: subtract
+[2024-11-30 21:35:42] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало вычитания двух матриц.
+[2024-11-30 21:35:42] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Вычитание успешно завершено.
+[2024-11-30 21:35:42] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Операция 'subtract' успешно выполнена.
+[2024-11-30 21:35:44] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Выполнение операции: multiply
+[2024-11-30 21:35:44] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало умножения двух матриц.
+[2024-11-30 21:35:44] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Умножение успешно завершено.
+[2024-11-30 21:35:44] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Операция 'multiply' успешно выполнена.
+[2024-11-30 21:35:46] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Вычисление детерминанта для Матрицы 1
+[2024-11-30 21:35:46] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало вычисления детерминанта для матрицы.
+[2024-11-30 21:35:46] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Вычисление детерминанта завершено. Значение: 0.0
+[2024-11-30 21:35:46] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Детерминант Матрицы 1 вычислен: 0.0
+[2024-11-30 21:35:47] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Вычисление детерминанта для Матрицы 2
+[2024-11-30 21:35:47] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Начало вычисления детерминанта для матрицы.
+[2024-11-30 21:35:47] [JavaFX Application Thread] INFO  org.example.matrixx.calculator.MatrixCalculator - Вычисление детерминанта завершено. Значение: 0.0
+[2024-11-30 21:35:47] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Детерминант Матрицы 2 вычислен: 0.0
+[2024-11-30 21:38:49] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - Запуск MatrixApp...
+[2024-11-30 21:38:49] [JavaFX Application Thread] INFO  org.example.matrixx.MatrixApp - MatrixApp успешно запущено.
