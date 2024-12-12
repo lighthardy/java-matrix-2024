@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.matrixx.MatrixCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-30T06:04:26" hostname="xxh0l" time="0.018">
+  <properties/>
+  <testcase name="testDeterminant()" classname="org.example.matrixx.MatrixCalculatorTest" time="0.01"/>
+  <testcase name="testMultiplication()" classname="org.example.matrixx.MatrixCalculatorTest" time="0.001"/>
+  <testcase name="testAddition()" classname="org.example.matrixx.MatrixCalculatorTest" time="0.001"/>
+  <testcase name="testAdditionWithInvalidDimensions()" classname="org.example.matrixx.MatrixCalculatorTest" time="0.002"/>
+  <testcase name="testSubtraction()" classname="org.example.matrixx.MatrixCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
